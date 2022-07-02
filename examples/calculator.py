@@ -1,3 +1,4 @@
+# Module
 def sumof(var1):
     sum = 0
     for number in var1:
